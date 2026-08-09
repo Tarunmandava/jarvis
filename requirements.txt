@@ -1,0 +1,9 @@
+anthropic
+faster-whisper
+sounddevice
+numpy
+pyttsx3
+openwakeword
+pillow
+edge-tts
+soundfile

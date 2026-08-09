@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "pythonw ""C:\Users\Tharun Kumar\desktop\jarvis\jarvis_wake_oww.py""", 0, False

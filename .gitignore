@@ -1,0 +1,17 @@
+# secrets & personal data — NEVER commit these
+setx*
+*api*key*
+*.env
+memory.json
+jobs.json
+reminders.json
+
+# your avatar image (personal / possibly licensed)
+jarvis.png
+jarvis*.jpg
+jarvis*.jpeg
+
+# python junk
+__pycache__/
+*.pyc
+*.pyo
